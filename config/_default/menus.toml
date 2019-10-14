@@ -31,6 +31,11 @@
 [[main]]
   name = "Researchers"
   url = "#people"
+  weight = 40
+
+[[main]]
+  name = "Events"
+  url = "#events_upcoming"
   weight = 50
 
 

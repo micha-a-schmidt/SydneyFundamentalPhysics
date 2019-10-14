@@ -1,5 +1,5 @@
 ---
-title: "Radiative Dirac Neutrino Mass, Neutrinoless Quadruple Beta Decay and Dark Matter in B-L extension of the Standard Model"
+title: "Rethinking the origin of neutrino masses: the role of gravity"
 event: Webinar
 #event_url: https://example.org
 
@@ -12,18 +12,18 @@ location: Google Hangouts
 #  country: United States
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: "We propose that neutrino Dirac masses can be generated through scotogenic scenario while violating lepton number by 4 units by extending the standard model to have anomaly free B-L which is spontaneously broken to residual Z4 symmetry. Z4 symmetry ensures the Dirac nature of neutrinos and simultaneously stabilizes dark matter. Although neutrinoless double beta decay is exactly absent, this model predicts nonzero neutrinoless quadruple beta decay (0nu4beta). It is shown that 0nu4beta can be enhanced thanks to the introduction of new scalar field without affecting tiny neutrino masses and the relic density of dark matter. We perform numerical analysis for 0nu4beta, dark matter and direct detection by imposing cosmological, collider and theoretical constraints."
+abstract: "The most popular directions of model building beyond the Standard Model focus on new phenomena at short distances, corresponding to high-energy scales. As an alternative direction, we have developed a novel class of low-energy solutions to the neutrino mass and strong-CP problems at a new infrared gravitational scale, which is numerically coincident with the scale of dark energy. In my talk, I will mainly focus on the gravitational neutrino mass mechanism and will discuss some of the model's phenomenological implications. In particular, I will explain the weakening of the cosmological neutrino mass bounds, the possibility of dark energy decay, and the distinction between Majorana and Dirac neutrinos through astrophysical neutrino decays. This talk is based on arXiv:1602.03191, arXiv:1811.01991, and arXiv:1905.01264."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-16T16:30:00Z"
-date_end: "2019-05-16T17:30:00Z"
+date: "2019-09-26T10:00:00Z"
+#date_end: "2019-09-26T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-01-01T00:00:00Z"
 
-authors: ["Oleg Popov (Seoul National University)"]
+authors: ["Lena Funcke (Perimeter Institute)"]
 tags: []
 
 # Is this a featured talk? (true/false)

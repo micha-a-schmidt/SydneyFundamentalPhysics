@@ -1,5 +1,5 @@
 ---
-title: "Testing the origin of neutrino masses at future colliders"
+title: "Rare processes and the fate of baryon and lepton numbers"
 event: Webinar
 #event_url: https://example.org
 
@@ -16,14 +16,14 @@ location: Google Hangouts
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-05-03T16:30:00Z"
-date_end: "2019-05-03T17:30:00Z"
+date: "2018-04-17T17:00:00Z"
+#date_end: "2019-05-02T17:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
-authors: ["Oliver Fischer (Karlsruhe Institute of Technology)"]
+authors: ["Julian Heeck (ULB)"]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -39,7 +39,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "webinar/20190926-Funcke.pdf"
+url_pdf: "webinar/20180417-Heeck.pdf"
 url_slides: ""
 url_video: ""
 
