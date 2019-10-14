@@ -12,7 +12,7 @@ location: Google Hangouts
 #  country: United States
 
 #summary: An example talk using Academic's Markdown slides feature.
-#abstract: ""
+abstract: "The nature of dark matter (DM) is one of the most important questions in particle physics and cosmology. I investigate the keV sterile neutrino, produced via the decay of a frozen-in complex scalar with a feeble Higgs portal coupling, as a DM candidate. Sterile neutrinos are an attractive class of model because they can naturally explain the masses of Standard Model neutrinos through the see-saw mechanism. Moreover, in light of the ‘Missing Satellites Problem’ that has challenged typical cold DM models, I demonstrate how warm keV sterile neutrinos are perhaps more consistent with our observations of small scale structures."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

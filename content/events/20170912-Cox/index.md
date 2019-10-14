@@ -12,7 +12,7 @@ location: Google Hangouts
 #  country: United States
 
 #summary: An example talk using Academic's Markdown slides feature.
-#abstract: ""
+abstract: "Recent measurements of rare B-decays at LHCb have provided intriguing hints that lepton flavour universality may be violated. If confirmed, these results would provide a clear indication of physics beyond the SM. In this talk, I will discuss the current status of these anomalies and possible new physics explanations, focusing on new U(1) gauge symmetries. One particularly interesting possibility is a flavoured B−L gauge symmetry. Such a symmetry can survive down to low energies (∼TeV) while still allowing for two superheavy right-handed neutrinos, consistent with both neutrino masses via see-saw and leptogenesis. The third right-handed neutrino acquires a TeV-scale Majorana mass and can provide a dark matter candidate."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,4 +61,5 @@ projects:
 # Enable math on this page?
 math: true
 ---
+
 

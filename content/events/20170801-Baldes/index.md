@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Dark Matter"
+title: "Asymmetric Dark Matter: generation and annihilation"
 event: Webinar
 #event_url: https://example.org
 
@@ -12,7 +12,7 @@ location: Google Hangouts
 #  country: United States
 
 #summary: An example talk using Academic's Markdown slides feature.
-#abstract: ""
+abstract: "Particle DM may carry an asymmetry in analogy with the baryons. I will first discuss an example model which produces a DM asymmetry through a first order phase transition - echoes of which can be searched for in gravitational wave observatories. I will then discuss a simple, generic, DM sector which can describe the low energy degrees of freedom relevant for the subsequent annihilation of the symmetric DM component. The determination of the coupling required to fit the DM abundance necessitates the inclusion of long range effects and is the first step in constraining these models through indirect and direct detection. This scenario also offers a compelling example in elucidating some subtleties regarding the unitarity constraint on thermal relic DM."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
