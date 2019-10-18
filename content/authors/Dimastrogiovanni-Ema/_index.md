@@ -18,7 +18,7 @@ organizations:
   url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: XXX
+#bio: XXX
 #bio: My research interests include neutrino physics, dark matter, flavour physics and in general physics beyond the Standard Model.
 
 #Currently my research activities are focussed on:

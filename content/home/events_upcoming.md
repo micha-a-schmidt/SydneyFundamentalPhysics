@@ -68,5 +68,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Contact [Michael Schmidt](http://michael.cai-schmidt.org/#contact) If you want to participate in future webinars.
+[Contact us via the webform](#contact) if you want to participate in future webinars.
 

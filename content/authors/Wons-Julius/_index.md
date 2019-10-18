@@ -18,7 +18,7 @@ organizations:
   url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: XXX
+#bio: XXX
 
 #education:
 #  courses:
@@ -58,6 +58,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Graduate Students
 ---
 
