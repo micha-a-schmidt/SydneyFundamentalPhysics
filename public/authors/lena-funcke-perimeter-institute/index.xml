@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lena Funcke (Perimeter Institute) | Sydney Institute for Fundamental Physics</title>
+    <link>/authors/lena-funcke-perimeter-institute/</link>
+      <atom:link href="/authors/lena-funcke-perimeter-institute/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lena Funcke (Perimeter Institute)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Lena Funcke (Perimeter Institute)</title>
+      <link>/authors/lena-funcke-perimeter-institute/</link>
+    </image>
+    
+    <item>
+      <title>Rethinking the origin of neutrino masses: the role of gravity</title>
+      <link>/events/20190926-funcke/</link>
+      <pubDate>Thu, 26 Sep 2019 10:00:00 +0000</pubDate>
+      <guid>/events/20190926-funcke/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

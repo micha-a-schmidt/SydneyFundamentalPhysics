@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20200221-sydneymeeting/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20191202-tevpa/</loc>
+    <lastmod>2019-12-02T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20191126-springschool/</loc>
+    <lastmod>2019-11-26T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-31T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/natsumi-nagata-tokyo-university/</loc>
+    <lastmod>2019-10-31T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20191031-nagata/</loc>
+    <lastmod>2019-10-31T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/cosmology/</loc>
+    <lastmod>2019-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/hep/</loc>
+    <lastmod>2019-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2019-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lena-funcke-perimeter-institute/</loc>
+    <lastmod>2019-09-26T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20190926-funcke/</loc>
+    <lastmod>2019-09-26T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/oleg-popov-seoul-national-university/</loc>
+    <lastmod>2019-05-16T16:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20190516-popov/</loc>
+    <lastmod>2019-05-16T16:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20190503-sydneymeeting/</loc>
+    <lastmod>2019-05-03T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/oliver-fischer-karlsruhe-institute-of-technology/</loc>
+    <lastmod>2019-05-02T16:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20190502-fischer/</loc>
+    <lastmod>2019-05-02T16:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/julian-heeck-ulb/</loc>
+    <lastmod>2018-04-17T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20180417-heeck/</loc>
+    <lastmod>2018-04-17T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-mckeen-pittsburgh/</loc>
+    <lastmod>2017-11-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20171103-mckeen/</loc>
+    <lastmod>2017-11-03T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20170912-cox/</loc>
+    <lastmod>2017-09-12T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-cox-ipmu/</loc>
+    <lastmod>2017-09-12T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20170907-coy/</loc>
+    <lastmod>2017-09-07T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rupert-coy-montpellier/</loc>
+    <lastmod>2017-09-07T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/20170801-baldes/</loc>
+    <lastmod>2017-08-01T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bennett-jack/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/chen-joe/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/dimastrogiovanni-ema/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/felkl-tobias/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hamann-jan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/kang-yuqi/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/lackner-adam/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/schmidt-michael/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/upadhye-amol/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/wong-yvonne/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/wons-julius/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+</urlset>

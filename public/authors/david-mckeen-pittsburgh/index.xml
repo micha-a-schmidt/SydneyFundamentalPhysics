@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David McKeen (Pittsburgh) | Sydney Institute for Fundamental Physics</title>
+    <link>/authors/david-mckeen-pittsburgh/</link>
+      <atom:link href="/authors/david-mckeen-pittsburgh/index.xml" rel="self" type="application/rss+xml" />
+    <description>David McKeen (Pittsburgh)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Nov 2017 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>David McKeen (Pittsburgh)</title>
+      <link>/authors/david-mckeen-pittsburgh/</link>
+    </image>
+    
+    <item>
+      <title>Oscillations and Baryogenesis</title>
+      <link>/events/20171103-mckeen/</link>
+      <pubDate>Fri, 03 Nov 2017 10:00:00 +0000</pubDate>
+      <guid>/events/20171103-mckeen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

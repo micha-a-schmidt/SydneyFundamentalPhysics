@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rupert Coy (Montpellier) | Sydney Institute for Fundamental Physics</title>
+    <link>/authors/rupert-coy-montpellier/</link>
+      <atom:link href="/authors/rupert-coy-montpellier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rupert Coy (Montpellier)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Sep 2017 17:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rupert Coy (Montpellier)</title>
+      <link>/authors/rupert-coy-montpellier/</link>
+    </image>
+    
+    <item>
+      <title>Dynamical Clockwork Axions</title>
+      <link>/events/20170907-coy/</link>
+      <pubDate>Thu, 07 Sep 2017 17:00:00 +0000</pubDate>
+      <guid>/events/20170907-coy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric Dark Matter: generation and annihilation</title>
+      <link>/events/20170801-baldes/</link>
+      <pubDate>Tue, 01 Aug 2017 16:00:00 +0000</pubDate>
+      <guid>/events/20170801-baldes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

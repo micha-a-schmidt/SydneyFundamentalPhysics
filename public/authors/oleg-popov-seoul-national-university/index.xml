@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oleg Popov (Seoul National University) | Sydney Institute for Fundamental Physics</title>
+    <link>/authors/oleg-popov-seoul-national-university/</link>
+      <atom:link href="/authors/oleg-popov-seoul-national-university/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oleg Popov (Seoul National University)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 May 2019 16:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Oleg Popov (Seoul National University)</title>
+      <link>/authors/oleg-popov-seoul-national-university/</link>
+    </image>
+    
+    <item>
+      <title>Radiative Dirac Neutrino Mass, Neutrinoless Quadruple Beta Decay and Dark Matter in B-L extension of the Standard Model</title>
+      <link>/events/20190516-popov/</link>
+      <pubDate>Thu, 16 May 2019 16:30:00 +0000</pubDate>
+      <guid>/events/20190516-popov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
