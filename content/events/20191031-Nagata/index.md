@@ -1,5 +1,5 @@
 ---
-title: "tba"
+title: "On the WIMP dark matter signature in old neutron stars"
 event: Webinar
 #event_url: https://example.org
 
@@ -12,7 +12,7 @@ location: Microsoft Teams
 #  country: United States
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: "tba"
+abstract: "Weakly Interacting Massive Particles (WIMPs) in the Universe accumulate in neutron stars (NSs) through their interactions with ordinary matter, and their annihilation inside the NS core causes late-time heating. It has been argued that this heating effect maintains the surface temperature of old NSs to be a few thousand K, which can be regarded as a smoking gun signature of dark matter (DM) heating in NSs. This conclusion is, however, drawn based on the assumption that the beta equilibrium is sustained in NSs throughout their life, which turns out to be invalid for real pulsars. If a NS is out of beta equilibrium, then there is another heating effect due to the dissipation of the excessive energy stored in the imbalance in the chemical potentials, which may conceal the DM heating effect. In fact, such an “out-of-equilibrium heating” effect is favored by recent observations. In this talk, we show that the signature of DM heating can still be detected in old ordinary pulsars even in the presence of the out-of-beta-equilibrium effect, whereas it is hidden in millisecond pulsars. We also discuss that an observation of a NS with the surface temperature lower than a thousand K imposes a stringent limit on a variety of WIMP DM candidates, such as the electroweak multiplet DM particles."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

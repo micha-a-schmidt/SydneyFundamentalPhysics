@@ -7,7 +7,7 @@ authors:
 - Schmidt-Michael
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Senior Lecturer of Theoretical Particle Physic at UNSW Sydney
@@ -19,11 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include neutrino physics, dark matter, flavour physics and in general physics beyond the Standard Model.
-
-Currently my research activities are focussed on:
-- (lepton) flavour physics
-- dark matter
-- neutrino physics
 
 education:
   courses:
