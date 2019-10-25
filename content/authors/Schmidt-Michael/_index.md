@@ -62,7 +62,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Principal Investigators
-#- Vistor
 ---
 
 I mainly worked on models of neutrino mass generation both in the context of grand unified theories and radiative neutrino mass models. I studied possible flavour symmetries which may explain the leptonic mixing as well as the renormalization group evolution of leptonic mixing angles and neutrino masses. Apart from that I worked on models adressing the question why the electroweak scale is so much lighter than the scale of grand unification or the Planck scale which is commonly known as the hierarchy problem: This includes scale-invariant models and the (next-to) minimal supersymmetric Standard Model. 

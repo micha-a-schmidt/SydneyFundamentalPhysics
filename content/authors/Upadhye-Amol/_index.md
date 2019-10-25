@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher in Theoretical Particle Physics
+role: Researcher in Theoretical Cosmology
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,6 @@ organizations:
   url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: XXX
 #bio: My research interests include neutrino physics, dark matter, flavour physics and in general physics beyond the Standard Model.
 
 #Currently my research activities are focussed on:
@@ -68,7 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-#- Vistor
 ---
 
 
