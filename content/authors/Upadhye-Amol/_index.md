@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher in Theoretical Cosmology
+role: Researcher in Theoretical Cosmology at UNSW Sydney
 
 # Organizations/Affiliations
 organizations:
