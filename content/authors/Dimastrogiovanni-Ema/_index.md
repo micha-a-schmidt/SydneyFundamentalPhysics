@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Lecturer of Theoretical Cosmology at UNSW Sydney 
+role: Senior Lecturer (UNSW)
 
 # Organizations/Affiliations
 organizations:

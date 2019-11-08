@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor of Theoretical Cosmology at UNSW Sydney
+role: Associate Professor (UNSW)
 
 # Organizations/Affiliations
 organizations:

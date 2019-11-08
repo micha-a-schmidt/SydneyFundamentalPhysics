@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Dr Jan Hamann
+name: Prof Kevin Varvell 
 
 # Username (this should match the folder name)
 authors:
-- Hamann-Jan
+- Varvell-Kevin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Lecturer (UNSW)
+role: Professor (USyd)
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales Sydney
-  url: "https://physics.unsw.edu.au"
+- name: University of Sydney
+  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: XXX
