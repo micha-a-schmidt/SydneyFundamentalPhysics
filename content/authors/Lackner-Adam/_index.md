@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Honours student
+role: UNSW (Honours)
 
 # Organizations/Affiliations
 organizations:
