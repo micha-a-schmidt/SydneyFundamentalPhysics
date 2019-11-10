@@ -16,8 +16,7 @@ subtitle = ""
   user_groups = [
 #"Principal Investigators",
                  "Researchers",
-                 "Graduate Students",
-		"Honours Students"]
+		"Students"]
 #                 "Administration",
 #                 "Visitors",
 #                 "Alumni"]
