@@ -68,5 +68,3 @@ subtitle = ""
  css_class = ""
 +++
 
-[Contact us via the webform](#contact) if you want to participate in future webinars.
-

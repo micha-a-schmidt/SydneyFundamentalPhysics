@@ -62,3 +62,4 @@ projects:
 math: true
 ---
 
+The webinars are run via Microsoft Teams and open to everyone. Contact [Michael Schmidt](m.schmidt@unsw.edu.au) if you want to join future webinars.
