@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher (USyd)
+role: University of Sydney (Research associate)
 
 # Organizations/Affiliations
 organizations:

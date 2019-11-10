@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor (USyd)
+role: University of Sydney
 
 # Organizations/Affiliations
 organizations:

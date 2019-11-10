@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher (UNSW)
+role: UNSW (Research associate)
 
 # Organizations/Affiliations
 organizations:
