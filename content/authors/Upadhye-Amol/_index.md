@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: UNSW (Research associate)
+role: UNSW (Research Associate)
 
 # Organizations/Affiliations
 organizations:

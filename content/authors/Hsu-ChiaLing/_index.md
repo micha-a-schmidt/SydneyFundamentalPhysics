@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: University of Sydney (Research associate)
+role: University of Sydney (Research Associate)
 
 # Organizations/Affiliations
 organizations:
