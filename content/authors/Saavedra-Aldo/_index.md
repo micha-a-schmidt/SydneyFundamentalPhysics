@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr aldo Saavedra
+name: Dr Aldo Saavedra
 
 # Username (this should match the folder name)
 authors:
