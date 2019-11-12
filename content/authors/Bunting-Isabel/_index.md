@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: University of Sydney (Honours)
+role: Honours student
 
 # Organizations/Affiliations
 organizations:

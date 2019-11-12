@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: University of Sydney (PhD)
+role: MSc student
 
 # Organizations/Affiliations
 organizations:

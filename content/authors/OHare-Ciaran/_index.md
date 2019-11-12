@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Dr Chia-Ling Hsu 
+name: Dr Ciaran O'Hare 
 
 # Username (this should match the folder name)
 authors:
-- Hsu-ChiaLing
+- OHare-Ciaran
 
 # Is this the primary user of the site?
 superuser: false

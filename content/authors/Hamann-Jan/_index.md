@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: UNSW
+#role: UNSW
 # (Senior Lecturer)
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales Sydney
+- name: UNSW
   url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
