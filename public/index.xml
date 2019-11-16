@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sydney Centre for Cosmology and Particle Physics (Sydney CCP)</title>
+    <title>Sydney Centre for Cosmology, Particle and Astro-particle Physics (Sydney CCPAP)</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sydney Centre for Cosmology and Particle Physics (Sydney CCP)</description>
+    <description>Sydney Centre for Cosmology, Particle and Astro-particle Physics (Sydney CCPAP)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2020 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Sydney Centre for Cosmology and Particle Physics (Sydney CCP)</title>
+      <title>Sydney Centre for Cosmology, Particle and Astro-particle Physics (Sydney CCPAP)</title>
       <link>/</link>
     </image>
     
