@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Events | Sydney Centre for Cosmology and Particle Physics (Sydney CCPP)</title>
+    <title>Recent &amp; Upcoming Events | Sydney Centre for Particle Physics and Cosmology (Sydney CPPC)</title>
     <link>/events/</link>
       <atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
@@ -25,7 +25,7 @@
       <link>/events/20191202-tevpa/</link>
       <pubDate>Mon, 02 Dec 2019 10:00:00 +0000</pubDate>
       <guid>/events/20191202-tevpa/</guid>
-      <description>&lt;p&gt;See the &lt;a href=&#34;https://indico.cern.ch/event/828038/&#34; target=&#34;_blank&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
+      <description>&lt;p&gt;See the &lt;a href=&#34;https://indico.cern.ch/event/828038/&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
 </description>
     </item>
     
@@ -34,7 +34,7 @@
       <link>/events/20191126-springschool/</link>
       <pubDate>Tue, 26 Nov 2019 10:00:00 +0000</pubDate>
       <guid>/events/20191126-springschool/</guid>
-      <description>&lt;p&gt;See the &lt;a href=&#34;https://indico.cern.ch/event/833042/&#34; target=&#34;_blank&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
+      <description>&lt;p&gt;See the &lt;a href=&#34;https://indico.cern.ch/event/833042/&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
 </description>
     </item>
     
@@ -43,7 +43,7 @@
       <link>/events/20191031-nagata/</link>
       <pubDate>Thu, 31 Oct 2019 16:15:00 +0000</pubDate>
       <guid>/events/20191031-nagata/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;mailto:m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;mailto:m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -52,7 +52,7 @@
       <link>/events/20190926-funcke/</link>
       <pubDate>Thu, 26 Sep 2019 10:00:00 +0000</pubDate>
       <guid>/events/20190926-funcke/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -61,7 +61,7 @@
       <link>/events/20190516-popov/</link>
       <pubDate>Thu, 16 May 2019 16:30:00 +0000</pubDate>
       <guid>/events/20190516-popov/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -70,15 +70,10 @@
       <link>/events/20190503-sydneymeeting/</link>
       <pubDate>Fri, 03 May 2019 13:00:00 +0000</pubDate>
       <guid>/events/20190503-sydneymeeting/</guid>
-      <description>
-
-&lt;p&gt;The Sydney particle physics and cosmology meeting will take place in room SNH3003 in the Sydney Nanoscience Hub at the University of Sydney on Friday 3 May 2019.
-It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/hienergy/index.php/Main_Page&#34; target=&#34;_blank&#34;&gt;physics group at the University of Sydney&lt;/a&gt; and the &lt;a href=&#34;https://www.physics.unsw.edu.au/research/theoretical-physics/theoretical-physics&#34; target=&#34;_blank&#34;&gt;particle physics and cosmology group&lt;/a&gt; at UNSW Sydney. See the &lt;a href=&#34;https://indico.cern.ch/event/855265/&#34; target=&#34;_blank&#34;&gt;indico page&lt;/a&gt; for details.&lt;/p&gt;
-
+      <description>&lt;p&gt;The Sydney particle physics and cosmology meeting will take place in room SNH3003 in the Sydney Nanoscience Hub at the University of Sydney on Friday 3 May 2019.
+It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/hienergy/index.php/Main_Page&#34;&gt;physics group at the University of Sydney&lt;/a&gt; and the &lt;a href=&#34;https://www.physics.unsw.edu.au/research/theoretical-physics/theoretical-physics&#34;&gt;particle physics and cosmology group&lt;/a&gt; at UNSW Sydney. See the &lt;a href=&#34;https://indico.cern.ch/event/855265/&#34;&gt;indico page&lt;/a&gt; for details.&lt;/p&gt;
 &lt;h1 id=&#34;timetable&#34;&gt;Timetable&lt;/h1&gt;
-
-&lt;h3 id=&#34;session-1-13-00-15-00&#34;&gt;Session 1: 13:00-15:00&lt;/h3&gt;
-
+&lt;h3 id=&#34;session-1-1300-1500&#34;&gt;Session 1: 13:00-15:00&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;13:00 Welcome&lt;/li&gt;
 &lt;li&gt;13:05 &lt;strong&gt;Céline Boehm&lt;/strong&gt; (USyd)&lt;/li&gt;
@@ -90,36 +85,26 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
 &lt;li&gt;14:35 &lt;strong&gt;Suntharan Arunasalam&lt;/strong&gt; (USyd) &lt;em&gt;The electroweak phase transition in the standard model with hidden scale invariance&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;14:50 discussion&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;em&gt;Break: 15:00-15:15&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;session-2-15-15-17-00&#34;&gt;Session 2: 15:15-17:00&lt;/h3&gt;
-
+&lt;h3 id=&#34;session-2-1515-1700&#34;&gt;Session 2: 15:15-17:00&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;15:15 &lt;strong&gt;ATLAS - Carl Suster&lt;/strong&gt; (USyd) &lt;em&gt;ATLAS activities at Sydney&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;15:30 &lt;strong&gt;Jack Bennett&lt;/strong&gt; (UNSW) &lt;em&gt;Why Neff  ≠3.046?&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;15:45 &lt;strong&gt;Daniel Collison&lt;/strong&gt; (USyd) &lt;em&gt;Magnetic monopoles in the Standard Model and implications for electroweak baryogenesis&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;16:00 &lt;strong&gt;short introductions&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;16:00 &lt;strong&gt;short introductions&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;16:15 discussion&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Pub: 17:00-&lt;/em&gt; Nag&amp;rsquo;s Head Hotel&lt;/p&gt;
-
+&lt;p&gt;&lt;em&gt;Pub: 17:00-&lt;/em&gt; Nag&#39;s Head Hotel&lt;/p&gt;
 &lt;h1 id=&#34;attendance&#34;&gt;Attendance&lt;/h1&gt;
-
 &lt;p&gt;For the record and to allow further discussion we are listing below the list of attendants. Students and postdocs are grouped together with their respective supervisor (in case of joint supervision, they are listed multiple times).&lt;/p&gt;
-
 &lt;h2 id=&#34;university-of-sydney&#34;&gt;University of Sydney&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Celine Boehm, Zachary Picker&lt;/li&gt;
-&lt;li&gt;Archil Kobakhidze, Suntharan Arunasalam, Daniel Collison, Yunho Kim, Cyril Lagger, Zachary Picker, Isabel Bunting, Lawrence Cohen, Darcy O&amp;rsquo;Sullivan&lt;/li&gt;
+&lt;li&gt;Archil Kobakhidze, Suntharan Arunasalam, Daniel Collison, Yunho Kim, Cyril Lagger, Zachary Picker, Isabel Bunting, Lawrence Cohen, Darcy O&#39;Sullivan&lt;/li&gt;
 &lt;li&gt;Kevin Varvell, Chia-Ling Hsu, Carl Suster, Ethan Cross&lt;/li&gt;
 &lt;li&gt;Bruce Yabsley, Frank Meier, Priyanka Cheema&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;unsw-sydney&#34;&gt;UNSW Sydney&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Jan Hamann, Yuqi Kang&lt;/li&gt;
 &lt;li&gt;Michael Schmidt, Tobias Felkl, Adam Lackner&lt;/li&gt;
@@ -133,7 +118,7 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
       <link>/events/20190502-fischer/</link>
       <pubDate>Thu, 02 May 2019 16:30:00 +0000</pubDate>
       <guid>/events/20190502-fischer/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -142,7 +127,7 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
       <link>/events/20180417-heeck/</link>
       <pubDate>Tue, 17 Apr 2018 17:00:00 +0000</pubDate>
       <guid>/events/20180417-heeck/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -151,7 +136,7 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
       <link>/events/20171103-mckeen/</link>
       <pubDate>Fri, 03 Nov 2017 10:00:00 +0000</pubDate>
       <guid>/events/20171103-mckeen/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -160,7 +145,7 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
       <link>/events/20170912-cox/</link>
       <pubDate>Tue, 12 Sep 2017 16:15:00 +0000</pubDate>
       <guid>/events/20170912-cox/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -169,7 +154,7 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
       <link>/events/20170907-coy/</link>
       <pubDate>Thu, 07 Sep 2017 17:00:00 +0000</pubDate>
       <guid>/events/20170907-coy/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -178,7 +163,7 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
       <link>/events/20170801-baldes/</link>
       <pubDate>Tue, 01 Aug 2017 16:00:00 +0000</pubDate>
       <guid>/events/20170801-baldes/</guid>
-      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34; target=&#34;_blank&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
+      <description>&lt;p&gt;The webinars are run via Microsoft Teams and open to everyone. Contact &lt;a href=&#34;m.schmidt@unsw.edu.au&#34;&gt;Michael Schmidt&lt;/a&gt; if you want to join future webinars.&lt;/p&gt;
 </description>
     </item>
     
@@ -187,7 +172,7 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
       <link>/events/20161128-cospa/</link>
       <pubDate>Mon, 28 Nov 2016 10:00:00 +0000</pubDate>
       <guid>/events/20161128-cospa/</guid>
-      <description>&lt;p&gt;See the &lt;a href=&#34;https://indico.cern.ch/event/491882/&#34; target=&#34;_blank&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
+      <description>&lt;p&gt;See the &lt;a href=&#34;https://indico.cern.ch/event/491882/&#34;&gt;indico page&lt;/a&gt; for details and registration.&lt;/p&gt;
 </description>
     </item>
     
@@ -196,7 +181,7 @@ It is organised by the particle &lt;a href=&#34;http://www.physics.usyd.edu.au/h
       <link>/events/20151001-springschool/</link>
       <pubDate>Thu, 01 Oct 2015 10:00:00 +0000</pubDate>
       <guid>/events/20151001-springschool/</guid>
-      <description>&lt;p&gt;See the &lt;a href=&#34;http://www.coepp.org.au/events/spring-school-particle-physics-and-cosmology/&#34; target=&#34;_blank&#34;&gt;CoEPP&lt;/a&gt; for further details.&lt;/p&gt;
+      <description>&lt;p&gt;See the &lt;a href=&#34;http://www.coepp.org.au/events/spring-school-particle-physics-and-cosmology/&#34;&gt;CoEPP&lt;/a&gt; for further details.&lt;/p&gt;
 </description>
     </item>
     

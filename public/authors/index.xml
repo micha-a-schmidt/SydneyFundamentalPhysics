@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Sydney Centre for Cosmology and Particle Physics (Sydney CCPP)</title>
+    <title>Authors | Sydney Centre for Particle Physics and Cosmology (Sydney CPPC)</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -89,14 +89,6 @@
       <link>/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/authors/robert-ford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/arunasalam-suntharan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/arunasalam-suntharan/</guid>
       <description></description>
     </item>
     
@@ -340,14 +332,6 @@
       <link>/authors/varvell-kevin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/varvell-kevin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/vaughan-taylor-lachlan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/vaughan-taylor-lachlan/</guid>
       <description></description>
     </item>
     
