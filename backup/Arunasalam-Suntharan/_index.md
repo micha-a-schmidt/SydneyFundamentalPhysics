@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Adam Lackner
+name: Suntharan Arunasalam
 
 # Username (this should match the folder name)
 authors:
-- adam
+- Arunasalam-Suntharan
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,11 +14,11 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: UNSW
-  url: "https://physics.unsw.edu.au"
+- name: University of Sydney
+  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focussed on neutrino physics.
+#bio: XXX
 
 #education:
 #  courses:
@@ -61,4 +61,3 @@ user_groups:
 - Students
 ---
 
-My research is focussed on neutrino physics.

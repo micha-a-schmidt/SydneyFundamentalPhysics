@@ -57,3 +57,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+The Sydney Centre for Particle Physics and Cosmology (Sydney-CPPC) is a joint centre of the cosmology/particle physics groups at the [University of New South Wales](https://physics.unsw.edu.au) and the [University of Sydney](http://www.physics.usyd.edu.au/hienergy/index.php/Main_Page).  
+
+

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Adam Lackner
+name: Giovanni Pierobon
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focussed on neutrino physics.
+bio: 
 
 #education:
 #  courses:
@@ -61,4 +61,3 @@ user_groups:
 - Students
 ---
 
-My research is focussed on neutrino physics.
